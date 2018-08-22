@@ -1,0 +1,52 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-2d328586d077713e4078.js",
+      "component---src-pages-index-js-2d328586d077713e4078.js.map"
+    ],
+    "path---": [
+      "path----98f075016aee35e2d739.js",
+      "path----98f075016aee35e2d739.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-73eb5928fcdf1553cecc.js",
+      "component---src-layouts-index-js-73eb5928fcdf1553cecc.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-4c10b04aac12f7946cb7.js",
+      "build-js-styles.css",
+      "commons-4c10b04aac12f7946cb7.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---musicas": [
+      "path---musicas-a0e39f21c11f6a62c5ab.js",
+      "path---musicas-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-5bc06f1b6de2ee52f85f.js",
+      "build-js-styles.css",
+      "app-5bc06f1b6de2ee52f85f.js.map",
+      "build-js-styles.css.map"
+    ],
+    "component---src-pages-musicas-js": [
+      "component---src-pages-musicas-js-aea9bc0565889cafd7d9.js",
+      "component---src-pages-musicas-js-aea9bc0565889cafd7d9.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
