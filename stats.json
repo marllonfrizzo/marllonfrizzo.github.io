@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-9f026a4223bff80d1ae5.js",
-      "component---src-pages-index-js-9f026a4223bff80d1ae5.js.map"
+      "component---src-pages-index-js-3f950035a97b75e5f198.js",
+      "component---src-pages-index-js-3f950035a97b75e5f198.js.map"
     ],
     "path---": [
       "path----98f075016aee35e2d739.js",
@@ -11,6 +11,10 @@
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-5f8d63ad6230a8c7af00.js",
       "component---src-layouts-index-js-5f8d63ad6230a8c7af00.js.map"
+    ],
+    "path---page-2": [
+      "path---page-2-a0e39f21c11f6a62c5ab.js",
+      "path---page-2-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -21,9 +25,9 @@
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
     "commons": [
-      "commons-4c10b04aac12f7946cb7.js",
+      "commons-cd264ba5b23590fcd95c.js",
       "build-js-styles.css",
-      "commons-4c10b04aac12f7946cb7.js.map",
+      "commons-cd264ba5b23590fcd95c.js.map",
       "build-js-styles.css.map"
     ],
     "path---404-html": [
@@ -34,15 +38,19 @@
       "path---musicas-a0e39f21c11f6a62c5ab.js",
       "path---musicas-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "component---src-pages-page-2-js": [
+      "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js",
+      "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js.map"
+    ],
     "app": [
-      "app-50e5918583d5926a01a6.js",
+      "app-72726cfb93c0e417e63f.js",
       "build-js-styles.css",
-      "app-50e5918583d5926a01a6.js.map",
+      "app-72726cfb93c0e417e63f.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-musicas-js": [
-      "component---src-pages-musicas-js-b81e56704adda06b2944.js",
-      "component---src-pages-musicas-js-b81e56704adda06b2944.js.map"
+      "component---src-pages-musicas-js-bcdde57efbe87567eac7.js",
+      "component---src-pages-musicas-js-bcdde57efbe87567eac7.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
