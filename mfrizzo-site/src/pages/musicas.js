@@ -31,7 +31,7 @@ class musicas extends PureComponent {
 
     _requestTopArtists = () => {
         this.setState({ loading: true });
-        return axios.get(`http://ws.audioscrobbler.com/2.0/?method=user.gettopartists&user=${USERNAME}&api_key=${API_KEY}&format=json&limit=5&period=7day`)
+        return axios.get(`https://ws.audioscrobbler.com/2.0/?method=user.gettopartists&user=${USERNAME}&api_key=${API_KEY}&format=json&limit=5&period=7day`)
             .then(response => {
                 const { data } = response;
                 this.setState({
@@ -48,7 +48,7 @@ class musicas extends PureComponent {
 
     _requestRecentTracks = () => {
         this.setState({ loading: true });
-        return axios.get(`http://ws.audioscrobbler.com/2.0/?limit=5&method=user.getrecenttracks&user=${USERNAME}&api_key=${API_KEY}&format=json`)
+        return axios.get(`https://ws.audioscrobbler.com/2.0/?limit=5&method=user.getrecenttracks&user=${USERNAME}&api_key=${API_KEY}&format=json`)
             .then(response => {
                 const { data } = response;
                 this.setState({
@@ -65,7 +65,7 @@ class musicas extends PureComponent {
 
     _requestInfo = () => {
         this.setState({ loading: true });
-        return axios.get(`http://ws.audioscrobbler.com/2.0/?method=user.getinfo&user=${USERNAME}&api_key=${API_KEY}&format=json`)
+        return axios.get(`https://ws.audioscrobbler.com/2.0/?method=user.getinfo&user=${USERNAME}&api_key=${API_KEY}&format=json`)
             .then(response => {
                 const { data } = response;
                 this.setState({
@@ -188,5 +188,13 @@ class musicas extends PureComponent {
         );
     }
 }
+
+// export const query = graphql`
+//   query SiteTitleQuery {
+//     site {
+//       buildTimeZone
+//     }
+//   }
+// `
 
 export default musicas;

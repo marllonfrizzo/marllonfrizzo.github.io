@@ -4,9 +4,13 @@
   "version": "1.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "axios": "^0.18.0",
     "gatsby": "^1.9.277",
     "gatsby-link": "^1.6.46",
+    "gatsby-plugin-antd": "^1.0.12",
+    "gatsby-plugin-buildtime-timezone": "^1.0.3",
     "gatsby-plugin-react-helmet": "^2.0.11",
+    "moment": "^2.22.2",
     "react-helmet": "^5.2.0"
   },
   "keywords": [
