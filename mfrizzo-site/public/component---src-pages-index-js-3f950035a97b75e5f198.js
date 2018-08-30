@@ -1,0 +1,2 @@
+webpackJsonp([35783957827783],{301:function(e,t,l){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var a=l(1),n=u(a),d=l(122),c=u(d),f=function(){return n.default.createElement("div",null,n.default.createElement("h1",null,"Olá"),n.default.createElement("h3",null,"Seja bem-vindo(a)"),n.default.createElement("p",null,"Estatística do Last.fm, clique ",n.default.createElement(c.default,{to:"/musicas/"},"aqui"),"."))};t.default=f,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-index-js-3f950035a97b75e5f198.js.map
