@@ -1,12 +1,12 @@
 {
   "assetsByChunkName": {
-    "component---src-pages-projetos-js": [
-      "component---src-pages-projetos-js-460477dc0872a5e806cb.js",
-      "component---src-pages-projetos-js-460477dc0872a5e806cb.js.map"
+    "component---src-pages-projetos-musica-js": [
+      "component---src-pages-projetos-musica-js-671124d5c3721ed830cc.js",
+      "component---src-pages-projetos-musica-js-671124d5c3721ed830cc.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-b335dcda92bdc40603c3.js",
-      "component---src-pages-index-js-b335dcda92bdc40603c3.js.map"
+      "component---src-pages-index-js-8fd7f6fd0cac02140312.js",
+      "component---src-pages-index-js-8fd7f6fd0cac02140312.js.map"
     ],
     "path---projetos": [
       "path---projetos-a0e39f21c11f6a62c5ab.js",
@@ -16,25 +16,37 @@
       "path----054d5622595017e0c816.js",
       "path----054d5622595017e0c816.js.map"
     ],
+    "component---src-pages-projetos-index-js": [
+      "component---src-pages-projetos-index-js-80a75ca4031da3e63879.js",
+      "component---src-pages-projetos-index-js-80a75ca4031da3e63879.js.map"
+    ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-fd013c3bffc4b441583d.js",
-      "component---src-layouts-index-js-fd013c3bffc4b441583d.js.map"
+      "component---src-layouts-index-js-f717420b137d48cf0fd5.js",
+      "component---src-layouts-index-js-f717420b137d48cf0fd5.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
     "commons": [
-      "commons-035468c6d82627ba72ca.js",
-      "commons-035468c6d82627ba72ca.js.map"
+      "commons-2d90036a880da759e3b1.js",
+      "build-js-styles.css",
+      "commons-2d90036a880da759e3b1.js.map",
+      "build-js-styles.css.map"
     ],
     "app": [
-      "app-9187ce69be79a7c2081c.js",
-      "app-9187ce69be79a7c2081c.js.map"
+      "app-6360974347f612f3bfc5.js",
+      "build-js-styles.css",
+      "app-6360974347f612f3bfc5.js.map",
+      "build-js-styles.css.map"
     ],
     "path---sobre": [
       "path---sobre-a0e39f21c11f6a62c5ab.js",
       "path---sobre-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---projetos-musica": [
+      "path---projetos-musica-a0e39f21c11f6a62c5ab.js",
+      "path---projetos-musica-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-sobre-js": [
       "component---src-pages-sobre-js-d96b7f264b87e80687b7.js",
