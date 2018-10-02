@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "component---src-pages-projetos-musica-js": [
-      "component---src-pages-projetos-musica-js-9989d1b689c293a5f887.js",
-      "component---src-pages-projetos-musica-js-9989d1b689c293a5f887.js.map"
+      "component---src-pages-projetos-musica-js-dea1cbed7155fc937b9a.js",
+      "component---src-pages-projetos-musica-js-dea1cbed7155fc937b9a.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-8fd7f6fd0cac02140312.js",
@@ -17,8 +17,8 @@
       "path----054d5622595017e0c816.js.map"
     ],
     "component---src-pages-projetos-index-js": [
-      "component---src-pages-projetos-index-js-80a75ca4031da3e63879.js",
-      "component---src-pages-projetos-index-js-80a75ca4031da3e63879.js.map"
+      "component---src-pages-projetos-index-js-f275eae2a61668115e63.js",
+      "component---src-pages-projetos-index-js-f275eae2a61668115e63.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-f717420b137d48cf0fd5.js",
@@ -49,8 +49,8 @@
       "path---projetos-musica-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-sobre-js": [
-      "component---src-pages-sobre-js-d96b7f264b87e80687b7.js",
-      "component---src-pages-sobre-js-d96b7f264b87e80687b7.js.map"
+      "component---src-pages-sobre-js-6ec5bc6bafafdaeea5e4.js",
+      "component---src-pages-sobre-js-6ec5bc6bafafdaeea5e4.js.map"
     ]
   }
 }
