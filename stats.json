@@ -1,12 +1,12 @@
 {
   "assetsByChunkName": {
     "component---src-pages-projetos-musica-js": [
-      "component---src-pages-projetos-musica-js-dea1cbed7155fc937b9a.js",
-      "component---src-pages-projetos-musica-js-dea1cbed7155fc937b9a.js.map"
+      "component---src-pages-projetos-musica-js-b973d245f4b02c111481.js",
+      "component---src-pages-projetos-musica-js-b973d245f4b02c111481.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-8fd7f6fd0cac02140312.js",
-      "component---src-pages-index-js-8fd7f6fd0cac02140312.js.map"
+      "component---src-pages-index-js-7d44d84ce270479de377.js",
+      "component---src-pages-index-js-7d44d84ce270479de377.js.map"
     ],
     "path---projetos": [
       "path---projetos-a0e39f21c11f6a62c5ab.js",
@@ -17,21 +17,21 @@
       "path----054d5622595017e0c816.js.map"
     ],
     "component---src-pages-projetos-index-js": [
-      "component---src-pages-projetos-index-js-f275eae2a61668115e63.js",
-      "component---src-pages-projetos-index-js-f275eae2a61668115e63.js.map"
+      "component---src-pages-projetos-index-js-15803e5d352ec7adddfe.js",
+      "component---src-pages-projetos-index-js-15803e5d352ec7adddfe.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-f717420b137d48cf0fd5.js",
-      "component---src-layouts-index-js-f717420b137d48cf0fd5.js.map"
+      "component---src-layouts-index-js-b9be15c14c918bb9efbc.js",
+      "component---src-layouts-index-js-b9be15c14c918bb9efbc.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
     "commons": [
-      "commons-2d90036a880da759e3b1.js",
+      "commons-078c3d2972a2fc5b67d6.js",
       "build-js-styles.css",
-      "commons-2d90036a880da759e3b1.js.map",
+      "commons-078c3d2972a2fc5b67d6.js.map",
       "build-js-styles.css.map"
     ],
     "app": [
@@ -49,8 +49,8 @@
       "path---projetos-musica-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-sobre-js": [
-      "component---src-pages-sobre-js-6ec5bc6bafafdaeea5e4.js",
-      "component---src-pages-sobre-js-6ec5bc6bafafdaeea5e4.js.map"
+      "component---src-pages-sobre-js-7f8ab4fa0e09c6f8c16e.js",
+      "component---src-pages-sobre-js-7f8ab4fa0e09c6f8c16e.js.map"
     ]
   }
 }
