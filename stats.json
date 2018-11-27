@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "component---src-pages-projetos-musica-js": [
-      "component---src-pages-projetos-musica-js-6efb68afd9f66e1a9940.js",
-      "component---src-pages-projetos-musica-js-6efb68afd9f66e1a9940.js.map"
+      "component---src-pages-projetos-musica-js-1307270a940c8a1bdda4.js",
+      "component---src-pages-projetos-musica-js-1307270a940c8a1bdda4.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-d21066f8de1da74900ca.js",
@@ -21,17 +21,17 @@
       "component---src-pages-projetos-index-js-33056a60450765bc994d.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-019635b1126b2d0a4e7a.js",
-      "component---src-layouts-index-js-019635b1126b2d0a4e7a.js.map"
+      "component---src-layouts-index-js-4f464990cee04808f3c1.js",
+      "component---src-layouts-index-js-4f464990cee04808f3c1.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
     "commons": [
-      "commons-078c3d2972a2fc5b67d6.js",
+      "commons-7401fa09d2ba897cd708.js",
       "build-js-styles.css",
-      "commons-078c3d2972a2fc5b67d6.js.map",
+      "commons-7401fa09d2ba897cd708.js.map",
       "build-js-styles.css.map"
     ],
     "app": [
