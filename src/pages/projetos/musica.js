@@ -9,7 +9,7 @@ import {
     Avatar, Divider,
     List, Icon, Skeleton,
 } from "antd";
-import API_KEY from '../../utils/apiKeys';
+import API_KEY from '../../keys/apiKeys';
 
 const USERNAME = 'marllonfrizzo';
 const ROOT_URL = 'https://ws.audioscrobbler.com/2.0/';
