@@ -1,2 +1,0 @@
-webpackJsonp([0xe5033f138bdc],{341:function(e,t,l){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var n=l(1),o=u(n);t.default=function(){return o.default.createElement("div",null,o.default.createElement("h1",null,"Sobre mim"),o.default.createElement("blockquote",null,"I'm good enough, I'm smart enough, and gosh darn it, people like me!"))},e.exports=t.default}});
-//# sourceMappingURL=component---src-pages-sobre-js-6ec5bc6bafafdaeea5e4.js.map

@@ -1,28 +1,42 @@
 {
-  "name": "marllonfrizzo-personal-website",
+  "name": "marllonfrizzo.github.io",
   "description": "Página pessoal de Marllon Frizzo",
-  "license": "MIT",
-  "scripts": {
-    "develop": "gatsby develop",
-    "build": "gatsby build",
-    "serve": "gatsby serve",
-    "deploy": "gatsby build && gh-pages -b master -d public"
-  },
+  "homepage": "http://marllonfrizzo.github.io/",
   "dependencies": {
-    "axios": "^0.18.0",
-    "gatsby": "^1.9.277",
-    "gatsby-link": "^1.6.46",
-    "gatsby-plugin-antd": "^1.0.0",
-    "gatsby-plugin-react-helmet": "^2.0.11",
-    "moment-timezone": "^0.5.21",
-    "react-helmet": "^5.2.0"
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1"
   },
-  "devDependencies": {
-    "babel-plugin-import": "^1.9.1",
-    "gh-pages": "^1.2.0"
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/marllonfrizzo/marllonfrizzo.github.io"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }
